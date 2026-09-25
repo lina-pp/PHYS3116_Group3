@@ -2,3 +2,26 @@ WK2 Friday markdown
 
 Team members Present: Charlotte Holloway, Louise Holland, Lina Piper
 Agenda: Start the assignment and work on how to approach analysisng the data and what the plan in morving forward
+
+Meeting Notes 
+
+WHat is the Input Cat Clusters data?
+Other three data files appear to be connected by the catID
+
+- Will need to filter the data to idenitfy the early type galaxies and plot these 
+
+Should merge these data table into one -> or perhaps could do this while sorting
+
+
+
+Action Items:
+- identify data which identifies an early type galaxy
+        - eliptical and lenticular - 0 to 1.5 Type = includes E to SO, we will start looking at this and 
+          will restrict as rquired if the graph does not appear linear.
+- sort through data to find the glaxies 
+- keep track of what data used to sort 
+- keep track of what galaxies we used
+
+Before next meeting (Monday Wk 3)
+- read up on other published papers and look at other Faber Jackson graphs - Charlotte - measures of quality of graph
+- filter data and produce first graph - Louise + Lina
