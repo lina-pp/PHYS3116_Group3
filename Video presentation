@@ -8,3 +8,20 @@ questions you asked more deeply. Include labelled figures of results. Each perso
 must speak for at least two minutes. Each team member must be visible, along with the
 code/figures, in the presentation – a Zoom recording can achieve this.
 
+- research process: 
+    - ETG only for fabre jackson plot
+    - variables given in data set, what they represent
+    - how to transform variables into FJ axis
+
+- data curation
+    - understanding what each file contained and how they related to each other
+    - sort by type, remove NAN, remove duplicate ids
+    - isolating variables required
+
+- code written
+
+- questions?
+
+- learnt along the way
+
+- future investigation
