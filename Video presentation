@@ -8,6 +8,17 @@ questions you asked more deeply. Include labelled figures of results. Each perso
 must speak for at least two minutes. Each team member must be visible, along with the
 code/figures, in the presentation – a Zoom recording can achieve this.
 
+IDEA FOR PRESENTATION -> make a slide show to have pictures, figures and code ect. with a video of us in the front, 
+we can screen record with ustapping through the slides as we go through what we need to talk about.
+- all introduce outselves at the start (30sec)
+- Louise - research progress + data curation (2min)
+- Lina - plot - where we put on axis, units and logs needed ect... (2min)
+- Charlotte - data analysis, R^2, linear fit, residual plot, plot with all types (2min)
+- all kind of come back together to each in turn breifly chat about 
+    - how this answered out questions, (1min)
+    - what we learnt along the way (1min) -> ig could integreate throughout but might be easier to have at the end
+    - future investigations (1min)
+
 - research process: 
     - ETG only for fabre jackson plot
     - variables given in data set, what they represent
@@ -18,7 +29,13 @@ code/figures, in the presentation – a Zoom recording can achieve this.
     - sort by type, remove NAN, remove duplicate ids
     - isolating variables required
 
-- code written
+- code written - Charlotte
+    - Firstly plotting early type stars, lableling each type of sigma vs mag  (lina to talk about maybe?)
+    - Using a linear regression to fit the line 
+    - Using an equation fit to find this linear fit and the gradient and the intercept
+    - comparing the data to this linear fit found the R^2 vaue
+    - plotting a residual plot 
+    - plottng a plot with all the types to verify the types which should be on the plot
 
 - questions?
 
