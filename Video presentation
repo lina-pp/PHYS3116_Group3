@@ -16,7 +16,7 @@ we can screen record with ustapping through the slides as we go through what we 
 - Charlotte - data analysis, R^2, linear fit, residual plot, plot with all types (2min)
 - all kind of come back together to each in turn breifly chat about 
     - how this answered out questions, (1min)
-    - what we learnt along the way (1min) -> ig could integreate throughout but might be easier to have at the end
+    - what we learnt along the way (1min) -> ig could integreate throughout but might be easier to have at the end: m_r plot, hard 
     - future investigations (1min)
 
 - research process: 
@@ -35,10 +35,14 @@ we can screen record with ustapping through the slides as we go through what we 
     - Using an equation fit to find this linear fit and the gradient and the intercept
     - comparing the data to this linear fit found the R^2 vaue
     - plotting a residual plot 
+    - deciding not to plot errorbars of sigma_r bc too crowded 
     - plottng a plot with all the types to verify the types which should be on the plot
+    - in comparison using m_r (Absolute Magnitude of r-band) given in data. Gives linear relation but limits us to r-band => ELT, R^2 value lower than for m_star, introduces more error, proportional relation is enough for Faber-Jackson. Conclusion: Stick with m_star plot.
 
-- questions?
+1 min each:
 
-- learnt along the way
+- questions (Louise)
 
-- future investigation
+- learnt along the way (Lina): Data management complex, relationship of proportionality
+
+- future investigation (Charlotte)
