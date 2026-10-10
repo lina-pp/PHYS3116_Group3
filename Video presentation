@@ -46,3 +46,24 @@ we can screen record with ustapping through the slides as we go through what we 
 - learnt along the way (Lina): Data management complex, relationship of proportionality
 
 - future investigation (Charlotte)
+
+
+
+Script
+
+(introduction)
+
+For this project, we have investigated the Faber-Jackson relation using data from the SAMI Galaxy Survey. 
+The SAMI galaxy survey uses 3D spectroscopy to study how galaxies form and evolve and the data collected can be used to plot the Faber-Jackson relation which is a projection of the fundamental plane for early type galaxies. 
+This relation traditionally links luminosity to the velocity dispersion. However, absolute magnitude can be related by the equation M_r = -2.5 log(L) + constant and can therefore allow absolute magnitude to be plotted instead. 
+As a result, this relation is expected to show brighter and more massive galaxies with stars moving with a larger spread of velocities. 
+Astronomers can measure the spectral velocity dispersion to estimate the absolute luminosity and compare with apparent magnitude to calculated its distance. 
+
+With this research, we were then able to sort the data appropriately for the Faber Jackson relation. 
+The first step was understanding what each file contained and what each variable represented. 
+We were able to understand that the data was split across the four files but contained matching IDs. 
+Therefore, each file gave different data for each galaxy and required us to isolate and combine the appropriate variables. 
+Initially we sorted the data by type since the Faber Jackson plot is used for Early Type galaxies. 
+Using the data given by the visual morphology, we isolated the galaxies of type 0 to 1.5 which represent the elliptical and lenticular galaxies. 
+We then isolated the IDs and type for each of the galaxies before finding their velocity dispersion sigma_re, the stellar mass m_star and the absolute magnitude m_r within the other files. 
+However, to combine the files, we had to remove the duplicated IDs in certain files and remove data points containing NaN. 
