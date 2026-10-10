@@ -67,3 +67,17 @@ Initially we sorted the data by type since the Faber Jackson plot is used for Ea
 Using the data given by the visual morphology, we isolated the galaxies of type 0 to 1.5 which represent the elliptical and lenticular galaxies. 
 We then isolated the IDs and type for each of the galaxies before finding their velocity dispersion sigma_re, the stellar mass m_star and the absolute magnitude m_r within the other files. 
 However, to combine the files, we had to remove the duplicated IDs in certain files and remove data points containing NaN. 
+
+
+
+
+
+
+
+
+
+
+
+Having produced and fitted the Faber-Jackson relation for our sample of early-type galaxies, we were able to answer the question we set out to ask, what is the relationship between luminosity and spectral velocity within early type galaxies. 
+Our plot showed a clear positive correlation between velocity dispersion and both stellar mass and absolute magnitude, confirming that brighter, more massive early-type galaxies contain stars moving with a larger spread of velocities, consistent with the supporting theory of the Virial theorem.
+
